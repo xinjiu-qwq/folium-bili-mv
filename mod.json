@@ -1,0 +1,13 @@
+{
+  "folium": 1,
+  "id": "bili-mv",
+  "name": "B站 MV / PV",
+  "version": "1.1.1",
+  "author": "xinjiu-qwq",
+  "preview": "preview.png",
+  "description": "在歌曲可视化的背景设置中搜索、选择并记住 B站 MV / PV；视频静音，跟随当前歌曲播放、暂停和跳转。",
+  "folia": ">=0.7.27 <0.8.0",
+  "main": "main.cjs",
+  "client": "client.mjs",
+  "permissions": ["net.fetch", "filesystem.data"]
+}
